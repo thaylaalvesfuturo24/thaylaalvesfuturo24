@@ -8,11 +8,11 @@
 
 ###
 
-<img align="left" height="100" src="https://miro.medium.com/v2/resize:fit:1280/1*zNssRpncIlN2ZZ90uutnEw.gif"  />
+<img align="right" height="100" src="https://miro.medium.com/v2/resize:fit:1280/1*zNssRpncIlN2ZZ90uutnEw.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,4 +37,3 @@
 </div>
 
 ###
-
