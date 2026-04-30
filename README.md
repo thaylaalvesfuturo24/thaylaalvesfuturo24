@@ -38,9 +38,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/thaylaalvesfuturo24/thaylaalvesfuturo24/output/snake.svg" alt="Snake animation" />
-
-###
-
